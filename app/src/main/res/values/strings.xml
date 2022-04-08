@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MoneyExchangeDemo</string>
+
+    <string name="toolbar_title">Currency Converter</string>
+    <string name="my_balances">MY BALANCES</string>
+    <string name="currency_exchange">CURRENCY EXCHANGE</string>
+    <string name="sell">Sell</string>
+    <string name="sell_amt">Sell Amount</string>
+    <string name="receive">Receive</string>
+    <string name="recv_amt">Receive Amount</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="currency_converted">Currency converted</string>
+    <string name="currency_converted_dialog_body">You have converted %1$s to %2$s. Commission Fee -%3$s.</string>
+    <string name="done">Done</string>
+    <string name="select_currency">Select Currency</string>
+    <string name="search">Search...</string>
+    <string name="close">close</string>
+
+    <string name="only_have_one_currency">You only have one currency balance as of the moment.</string>
+    <string name="error_occurred">Error occurred: %s</string>
+    <string name="unknown_error_occurred">An unknown error occurred</string>
+    <string name="cannot_input_greater_value">Error: Cannot enter value more than your account balance</string>
+
+</resources>
